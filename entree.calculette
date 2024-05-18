@@ -1,0 +1,60 @@
+int calcul(int j, int b, int c)
+{
+  4*5
+  78
+  return j+b
+  return b+j+c
+}
+int a;
+a = 0
+int b
+b = -15
+
+int calculk(int x, int y, int z)
+{
+  return y+x+z
+}
+bool c
+c = b<10 and a<5
+4*56
+
+int somme(int i){
+  a = 0
+  b = 0
+  int d
+  repeat{
+    if (c or true)
+    {
+      for(d = 0 ; d < i ; d = d+1)
+      {
+        a = a + b
+      }
+    }
+    else
+    {
+      d = 0
+      while(d<i)
+      {
+        a = a + b
+        d = d + 1
+      }
+    }
+    b = b+1
+  }
+  until(b>i)
+  d = 56
+  return a
+}
+
+int l
+calculk(b + 5 + calcul(5,2,3),9999,3)
+4*32
+int calculk(int x, int y)
+{
+  return y+x
+}
+calculk(b + 5 + calcul(5,2,3),9999)
+calcul(6,2,3)
+d = 12
+l = 13
+somme(100)
